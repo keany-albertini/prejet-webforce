@@ -9,7 +9,7 @@
 	<body class="body-accueil">
 		<?php require_once("templates/header.php") ?>
 		<main>
-            <img class="image-fond" src="ressources/image1.png" alt="">
+            		<img class="image-fond" src="ressources/image1.png" alt="">
 		</main>
 		<?php require_once('templates/footer.php'); ?>
 		<script src="script/burger-script.js"></script>
